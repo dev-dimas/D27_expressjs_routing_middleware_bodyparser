@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1684193601540",
+    "nama": "Indomie",
+    "harga": "3500",
+    "barcode": "b0b4ba5ae1e7d",
+    "image": "http://localhost:3000/images/1684193601540.jpg"
+  },
+  {
+    "id": "1684198100206",
+    "nama": "Kopiko",
+    "harga": "10000",
+    "barcode": "9df300673c746",
+    "image": "http://localhost:3000/images/1684198100206.jpg"
+  },
+  {
+    "id": "1684198123254",
+    "nama": "Tolak Angin",
+    "harga": "4500",
+    "barcode": "91611096e16ee",
+    "image": "http://localhost:3000/images/1684198123254.jpg"
+  },
+  {
+    "id": "1684198155782",
+    "nama": "SilverQueen",
+    "harga": "26000",
+    "barcode": "fd498e077cd6f",
+    "image": "http://localhost:3000/images/1684198155782.jpg"
+  },
+  {
+    "id": "1684198183476",
+    "nama": "Donat J.Co",
+    "harga": "30000",
+    "barcode": "a026cf3764444",
+    "image": "http://localhost:3000/images/1684198183476.jpg"
+  }
+]
